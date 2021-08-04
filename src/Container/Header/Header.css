@@ -1,0 +1,14 @@
+.logoImg{
+    width: 100px !important;
+    height: 70px !important;
+  }
+  
+  .Header{
+    z-index: 5;
+    width: 100%;
+    position: fixed !important;
+    position: relative;
+    top: 0%;
+    
+    
+  }

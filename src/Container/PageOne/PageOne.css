@@ -1,0 +1,63 @@
+.titleDiv{
+    margin-top: 200px !important;
+    width: 900px;
+    font-size: 60px;
+    color: white;
+    font-weight: 700;
+}
+
+.textDiv{
+    color: white !important;
+    font-size: 22px;
+    font-weight: 700;
+}
+.buttonDiv{
+    font-weight: 700;
+    width: 160px;
+    height: 45px;
+    
+}
+
+body{
+    background: url("./home.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+   
+}
+
+/* .shadowDiv{
+    background-color: black;
+    opacity: 0.5;
+    width: 100%;
+    height: 100vh;
+    box-shadow: rgb(0 0 0 / 30%) 0px -10px 30px 0px inset;
+    position: absolute;
+    left: 0%;
+    z-index: -1;
+    top: 10%;
+    position: fixed;
+
+} */
+
+h1{
+    width: 30px;
+}
+
+.kKUSzd::before {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+90deg
+, rgba(9, 21, 45, 0.7) 0%, rgba(9, 21, 45, 0.25) 35%, rgba(0, 212, 255, 0) 100%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    content: "";
+    z-index: -1;
+    position: fixed;
+
+}
+
+
+
